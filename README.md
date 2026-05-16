@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fulya </h1>
-<h3 align="center">Swift developer from Turkey</h3>
+<h3 align="center">iOS developer from Turkey</h3>
 
 <h4 align="left">● 🌱 I'm currently learning iOS Development.</h3>
 <p align="left">
